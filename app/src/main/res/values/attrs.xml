@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="dropDownMenu">
+        <!-->水平划线的颜色<!-->
+        <attr name="underlineColor" format="color"/>
+
+        <!-->竖直分割线的颜色<!-->
+        <attr name="dividerColor" format="color"/>
+
+        <!-->文本选中的颜色<!-->
+        <attr name="textSelectColor" format="color"/>
+
+        <!-->文本未选中的颜色<!-->
+        <attr name="textUnSelectColor" format="color"/>
+
+        <!-->菜单背景的颜色<!-->
+        <attr name="menuBackgroundColor" format="color"/>
+
+        <!-->遮罩颜色<!-->
+        <attr name="maskColor" format="color"/>
+
+        <!-->菜单文本的大小<!-->
+        <attr name="menuTextSize" format="dimension"/>
+UN
+        <!-->菜单项选中图标<!-->
+        <attr name="menuSelectedIcon" format="reference"/>
+
+        <!-->菜单项未选中图标<!-->
+        <attr name="menuUnSelectedIcon" format="reference"/>
+
+
+    </declare-styleable>
+
+</resources>

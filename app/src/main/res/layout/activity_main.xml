@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zqw.dropadownmenu.DropDownMenu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:zqw="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/dropDownMenu"
+        zqw:menuTextSize="14sp"
+        zqw:textSelectColor="#c65858"
+        zqw:textUnSelectColor="#252525"
+        zqw:dividerColor="#c7c7c7"
+        zqw:underlineColor="#c7c7c7"
+        zqw:menuBackgroundColor="#ffffff"
+        zqw:maskColor="#8c8c8c"
+        zqw:menuSelectedIcon="@drawable/drop_down_selected"
+        zqw:menuUnSelectedIcon="@drawable/drop_down_unselected">
+
+
+</com.zqw.dropadownmenu.DropDownMenu>
